@@ -1,0 +1,100 @@
+										ACME Sports Inc.	
+ 								"We are the best, you use the best!"
+
+_______________________________________________________________________________________________
+
+										ACME Tools
+
+	Emp#	Name					Dept   	New YTD		Gross		FICA		 Net
+	6		Azua      	Amado       Acct $ 110629.60	$   529.60	$   0.00	$  529.60
+	10		Barry     	Kevin       Acct $  67971.52	$  1371.52	$  97.38	$ 1274.14
+	22		Bolen     	Tyler       Acct $  36700.00	$   100.00	$   7.10	$   92.90
+	24		Cabell    	Alecia      Acct $ 111605.71	$  1515.71	$   0.71	$ 1515.00
+
+Page 1 Totals : 										$  3516.83	$ 105.19	$ 3411.64
+
+ 
+Page 1 
+
+===============================================================================================
+
+
+											ACME Tools
+
+	Emp#	Name					Dept   	New YTD		Gross		FICA		 Net
+	13		Finch     	Heather     Acct $   2335.84	$   977.50	$  69.40	$  908.10
+
+
+		Department totals: 							$  4494.33	$ 174.59	$ 4319.74
+
+	5		Fulton    	Scott         DP $ 110100.00	$    10.00	$   0.71	$    9.29
+
+
+		Department totals: 							$    10.00	$   0.71	$    9.29
+
+	3		Hailes    	Debra        Mgt $ 680980.74	$  7502.40	$   0.00	$ 7502.40
+	1		Hantol    	Hatan        Mgt $ 138574.50	$  4340.16	$   0.00	$ 4340.16
+
+
+		Department totals: 							$ 11842.56	$   0.00	$11842.56
+
+
+Page 2 Totals : 										$ 12830.06	$  70.11	$12759.95
+
+ 
+Page 2 
+
+=============================================================================================
+
+
+										ACME Tools
+
+	Emp#	Name					Dept   	New YTD		Gross		FICA		 Net
+	4		Jones     	Nicholas   Sales $  13269.40	$  1924.18	$ 136.62	$ 1787.56
+	12		Kucharz   	Zachary    Sales $    917.64	$   683.08	$  48.50	$  634.59
+	17		Noman     	Ahmed      Sales $   3690.76	$  1348.42	$  95.74	$ 1252.69
+	7		Robson    	Nathan     Sales $  68369.20	$  1369.20	$  97.21	$ 1271.99
+
+
+		Department totals: 							$  5324.89	$ 378.07	$ 4946.82
+
+
+Page 3 Totals : 										$  5324.89	$ 378.07	$ 4946.82
+
+ 
+Page 3 
+
+=============================================================================================
+
+
+										ACME Tools
+
+	Emp#	Name					Dept   	New YTD		Gross		FICA		 Net
+	86		Rock      	Kyle       Inven $  12875.38	$   529.60	$  37.60	$  492.00
+	66		Shefstad  	Garrett    Inven $ 114440.27	$  4441.52	$   7.19	$ 4434.33
+	51		Smith     	Andrew     Inven $ 206700.00	$   100.00	$   0.00	$  100.00
+	38		Stair     	Spencer    Inven $  80227.27	$  1885.27	$ 133.85	$ 1751.42
+
+
+		Department totals: 							$  6956.40	$ 178.64	$ 6777.75
+
+ 
+Page 4 Totals : 										$  6956.40	$ 178.64	$ 6777.75
+
+
+Page 4 
+
+=============================================================================================
+
+									ACME Tools			
+
+
+								Report Summary
+
+Number of Records Processed : 16
+Total Gross: $  28628.18 
+Total FICA:  $    732.01 
+Total Net:   $  27896.17
+
+
+Page 5 

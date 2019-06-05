@@ -1,0 +1,8 @@
+gcc -c -o PageBreak.o /home/amberdigiovanni/lab2Files/lab2Src/PageBreak.c
+gcc -c -o calcGross.o /home/amberdigiovanni/lab2Files/lab2Src/calcGross.c
+gcc -c -o calcFICA.o /home/amberdigiovanni/lab2Files/lab2Src/calcFICA.c
+gcc -c -o newPage.o /home/amberdigiovanni/lab2Files/lab2Src/newPage.c
+gcc -o lab2 PageBreak.o calcGross.o calcFICA.o newPage.o
+
+ 
+
